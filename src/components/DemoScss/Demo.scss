@@ -1,0 +1,18 @@
+// Ở trong css
+// .container-demo h1{
+//     color:red
+// }
+// .container-demo .list-todo .todo{
+//     color:blue
+// }
+
+.container-demo{
+    h1{
+        color:red
+    }
+    .list-todo{
+        .todo{
+            color:blue
+        }
+    }
+}
